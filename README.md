@@ -1,0 +1,1 @@
+First project with Odin Project, creating a website using just HTML.
